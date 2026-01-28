@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+requests
+fastapi
+xgboost
+lightgbm
+ipykernel

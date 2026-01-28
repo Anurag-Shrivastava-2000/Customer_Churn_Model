@@ -1,0 +1,10 @@
+artifact_location: file:///d:/Python Projects/Customer_Churn_Model/mlruns/843679612321032922/models/m-5d3863c478ed469ca2bfe914b2547025/artifacts
+creation_timestamp: 1769596546974
+experiment_id: '843679612321032922'
+last_updated_timestamp: 1769596551899
+model_id: m-5d3863c478ed469ca2bfe914b2547025
+model_type: null
+name: model
+source_run_id: a82f7ec12e854a5ba23c8d21541bdf4d
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Python Projects/Customer_Churn_Model/mlruns/843679612321032922/9267e1cc12ea4596957695a65523df08/artifacts
+end_time: 1769596488181
+entry_point_name: ''
+experiment_id: '843679612321032922'
+lifecycle_stage: active
+run_id: 9267e1cc12ea4596957695a65523df08
+run_name: peaceful-duck-984
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769596479202
+status: 3
+tags: []
+user_id: Asus

@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/Python Projects/Customer_Churn_Model/mlruns/843679612321032922/3e58501d2a2240cca1126a0bd4509efa/artifacts
+end_time: 1769596576611
+entry_point_name: ''
+experiment_id: '843679612321032922'
+lifecycle_stage: active
+run_id: 3e58501d2a2240cca1126a0bd4509efa
+run_name: nervous-bug-84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1769596571892
+status: 3
+tags: []
+user_id: Asus
