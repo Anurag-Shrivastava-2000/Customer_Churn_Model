@@ -1,0 +1,23 @@
+[
+  "gender",
+  "SeniorCitizen",
+  "Partner",
+  "Dependents",
+  "tenure",
+  "PhoneService",
+  "MultipleLines",
+  "InternetService",
+  "OnlineSecurity",
+  "OnlineBackup",
+  "DeviceProtection",
+  "TechSupport",
+  "StreamingTV",
+  "StreamingMovies",
+  "Contract",
+  "PaperlessBilling",
+  "MonthlyCharges",
+  "TotalCharges",
+  "PaymentMethod_Credit card (automatic)",
+  "PaymentMethod_Electronic check",
+  "PaymentMethod_Mailed check"
+]
