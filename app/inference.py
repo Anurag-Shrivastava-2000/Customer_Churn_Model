@@ -5,9 +5,15 @@ from source.preprocess import preprocess_data
 
 import mlflow.sklearn
 
-MODEL_URI = "models:/CustomerChurnXGB@production"
+# Loading model from directory
 
-model = mlflow.sklearn.load_model(MODEL_URI)
+BASE_DIR = Path(__file__).parent
+MODEL_PATH = BASE_DIR / "xgb_model.joblib"
+
+if not MODEL_PATH.exists():
+    raise FileNotFoundError(f"Model file not found at {MODEL_PATH}")
+
+model = joblib.load(MODEL_PATH)
 
 def predict(input_data: dict):
     """
