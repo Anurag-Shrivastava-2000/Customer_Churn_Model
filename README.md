@@ -1,6 +1,9 @@
 # Telco Churn – End-to-End ML Project
   -----------------------------------
 
+  **Live Demo:** http://54.211.9.165:8080/ui/
+
+
   ## Goal
 
 Designed and deployed an end-to-end machine learning system to predict telecom customer churn, covering data preparation, model training, and production deployment with an API and web interface on AWS.
